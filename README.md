@@ -8,3 +8,4 @@
 * 9:25 am: Watching videos on how to combine Rails backend with React frontend.
 * 10:15 am: Starting work on Capstone propsal.
 * 11:30 am: Continuing research of Rails and React projects.
+* 12:00 pm: Following new tutorial on applying API to React.
