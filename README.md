@@ -5,3 +5,4 @@
 * 10:50 pm: Continuing working through online tutorial along with other research.
 ### Saturday, 8/27
 * 8:55 am: More research this morning on projects that use both Rails and React.
+* 9:25 am: Watching videos on how to combine Rails backend with React frontend.
