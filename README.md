@@ -1,5 +1,7 @@
 ### Research and Planning Log
 #### Friday, 08/26
-* 7:20: Researching online and organizing ideas for Capstone.
-* 7:50: Following tutoral found online for using Rails with React front-end.
-* 10:50: Continuing working through online tutorial along with other research.
+* 7:20 pm: Researching online and organizing ideas for Capstone.
+* 7:50 pm: Following tutoral found online for using Rails with React front-end.
+* 10:50 pm: Continuing working through online tutorial along with other research.
+### Saturday, 8/27
+* 8:55 am: More research this morning on projecting using both Rails and React.
