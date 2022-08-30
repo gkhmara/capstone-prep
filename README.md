@@ -2,7 +2,7 @@
 
 #### Greg Khmara
 
-#### This site will allow user to track the books they are currently reading and books that the want to read in the future
+#### This site will allow a user to track the books they are currently reading and books that the want to read in the future.
 
 ## Technologies Used
 
