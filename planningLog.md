@@ -15,3 +15,4 @@
 * 6:40 pm: Continuing to build out a demo version of the site
 * 7:10 pm: Reviewing a few tutorials including videos
 * 7:30 pm: Reviewing Ruby and Rails
+* 8:05 pm: Continuing to build out test version of site
