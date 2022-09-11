@@ -17,3 +17,4 @@
 * 7:30 pm: Reviewing Ruby and Rails
 * 8:05 pm: Continuing to build out test version of site
 * 8:35 pm: More Review of Rails and trying to apply React
+* 9:00 pm: Additonal practice applying React and Rails together
