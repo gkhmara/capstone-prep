@@ -13,3 +13,4 @@
 * 5:00 pm: Prepping project and organizing plan
 * 6:10 pm: Building out test version of site
 * 6:40 pm: Continuing to build out a demo version of the site
+* 7:10 pm: Reviewing a few tutorials including videos
