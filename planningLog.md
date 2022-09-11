@@ -10,4 +10,5 @@
 * 11:30 am: Continuing research of Rails and React projects.
 * 12:00 pm: Following new tutorial on applying API to React.
 ### Saturday, 9/10
-* 4:30 pm: Prepping project and organizing plan
+* 5:00 pm: Prepping project and organizing plan
+* 6:10 pm: Building out test version of site
