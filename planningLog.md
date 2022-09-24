@@ -21,3 +21,4 @@
 ### Sunday, 09/24
 * 11:30 am: Starting to build out second demo version of project.
 * 12:45 pm: Continuing to work on building out second demo version of project.
+* 2:35 pm: Building out API for second demo version of site. I ran into a few issues, but I  was able to figure them out.
