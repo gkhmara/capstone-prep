@@ -19,4 +19,5 @@
 * 8:35 pm: More Review of Rails and trying to apply React
 * 9:00 pm: Additonal practice applying React and Rails together
 ### Sunday, 09/24
-* 11:30 am: Starting to build out second demo version of project
+* 11:30 am: Starting to build out second demo version of project.
+* 12:45 pm: Continuing to work on building out second demo version of project.
